@@ -1,0 +1,23 @@
+---
+title: "R Notebook"
+output: html_document
+---
+
+Libs
+
+```{r}
+source("source/utils_libs.R")
+```
+
+# Buscador do Zona Sul
+
+```{r}
+get_table_zs("Cerveja Colorado")
+```
+
+# Buscador no Prix
+
+```{r}
+get_table_prix("Cerveja Colorado")
+```
+
