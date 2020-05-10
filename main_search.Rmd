@@ -21,3 +21,13 @@ get_table_zs("Cerveja Colorado")
 get_table_prix("Cerveja Colorado")
 ```
 
+# Buscador no Mundial
+
+```{r}
+get_table_mundial("Cerveja Colorado")
+```
+
+
+
+
+
